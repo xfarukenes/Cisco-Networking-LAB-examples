@@ -15,3 +15,5 @@ else:
             print(f"{year} Leap year.")
     else:
         print(f"{year} Common year.")
+
+
